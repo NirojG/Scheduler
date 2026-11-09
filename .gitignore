@@ -1,0 +1,6 @@
+data/
+.env
+node_modules/
+artifacts/
+private/config.php
+*.zip
