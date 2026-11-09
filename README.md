@@ -1,6 +1,6 @@
 # Scheduler
 
-A group scheduling app built for cPanel shared hosting, with a blue-and-white landing page and an availability calendar with responders beside it.
+A group scheduling app built for everyday people. It is and will always be free.
 
 ## Features
 
